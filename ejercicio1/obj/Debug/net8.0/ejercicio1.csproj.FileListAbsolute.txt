@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Poo/ejercicio1/bin/Debug/net8.0/ejercicio1
+/home/nicolas/Documentos/Poo/ejercicio1/bin/Debug/net8.0/ejercicio1.deps.json
+/home/nicolas/Documentos/Poo/ejercicio1/bin/Debug/net8.0/ejercicio1.runtimeconfig.json
+/home/nicolas/Documentos/Poo/ejercicio1/bin/Debug/net8.0/ejercicio1.dll
+/home/nicolas/Documentos/Poo/ejercicio1/bin/Debug/net8.0/ejercicio1.pdb
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfo.cs
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.sourcelink.json
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.dll
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/refint/ejercicio1.dll
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.pdb
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ejercicio1.genruntimeconfig.cache
+/home/nicolas/Documentos/Poo/ejercicio1/obj/Debug/net8.0/ref/ejercicio1.dll
