@@ -42,22 +42,22 @@ public class Programa
         Console.WriteLine("Iniciando cronómetro...");
         Console.WriteLine($"Tiempo inicial: {cronometro.mostrarTiempo()}");
 
-        for (int i = 0; i < 5000; i++)
+        for (int i = 0; i < 302; i++)
         {
             cronometro.incrementarTiempo();
         }
 
-        Console.WriteLine($"\nDespués de 5000 incrementos: {cronometro.mostrarTiempo()}");
+        Console.WriteLine($"\nDespués de 302 incrementos: {cronometro.mostrarTiempo()}");
 
         // Pruebas adicionales
         Console.WriteLine("\n--- Pruebas Adicionales ---");
         cronometro.reiniciar();
         Console.WriteLine($"Después de reiniciar: {cronometro.mostrarTiempo()}");
 
-        for (int i = 0; i < 125; i++)
+        for (int i = 0; i < 120; i++)
         {
             cronometro.incrementarTiempo();
         }
-        Console.WriteLine($"Después de 125 incrementos: {cronometro.mostrarTiempo()}");
+        Console.WriteLine($"Después de 120 incrementos: {cronometro.mostrarTiempo()}");
     }
 }
