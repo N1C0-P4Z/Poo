@@ -2,7 +2,7 @@ namespace ejercicio5;
 
 public class CuentaBancaria
 {
-    protected decimal saldo;
+    private decimal saldo;
 
     public CuentaBancaria()
     {
@@ -38,5 +38,15 @@ public class CuentaBancaria
     public void mostrarSaldo()
     {
         Console.WriteLine($"Saldo actual: {saldo}");
+    }
+
+    protected decimal SaldoActual => saldo;
+
+    protected bool AplicarExtraccion(decimal monto)
+    {
+        if (monto <= 0)
+            return false;
+        saldo -= monto;
+        return true;
     }
 }

@@ -16,12 +16,11 @@ public class CuentaCorriente : CuentaBancaria
             Console.WriteLine("No se puede extraer un monto negativo o cero.");
             return false;
         }
-        if (monto > saldo + limiteDescubierto)
+        if (monto > SaldoActual + limiteDescubierto)
         {
             Console.WriteLine("Supera el límite de descubierto permitido.");
             return false;
         }
-        saldo -= monto;
-        return true;
+        return AplicarExtraccion(monto);
     }
 }
